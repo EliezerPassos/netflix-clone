@@ -1,5 +1,6 @@
 import React from "react";
 import "./MovieRow.css";
+
 export default ({title, items})=> {
     return(
         <div className="movieRow">

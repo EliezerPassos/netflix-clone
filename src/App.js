@@ -75,7 +75,7 @@ function App(){
       </section>
 
           <footer>
-            Feito por eliezer.passos <span role="img" arial-label="coração">❤️</span>
+            Feito por eliezer.passos <span role="img" aria-label="coração">❤️</span>
             Direitos da Netflix<br/>
             Dados pegos do site Themoviedb.org
           </footer>

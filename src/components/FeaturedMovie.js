@@ -1,4 +1,4 @@
-import react from 'react';
+import React from 'react';
 import './FeaturedMovie.css';
 
 export default ({item})=>{
