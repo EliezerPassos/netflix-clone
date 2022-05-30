@@ -1,31 +1,90 @@
-# Getting Started with Create React App
+<h4 align="center">
+  <img src="https://github.com/gustavo-nt/netflix-clone/blob/master/public/logo.png" alt="logo" height="75"/>
+</h4>
 
-Netflix clone ainda em andamento utilizando a API Tmdb para recolher os dados, e react.
+<h1 align="center">
+    🚀 React Netflix Clone
+</h1>
 
-## Available Scripts
+<p align="center">Aplicação  Clone Netflix</p>
 
-In the project directory, you can run:
 
-### `npm start`
+<p align="center">
+  <a href="#-features">Features</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-pré-requisitos">Pré-Requisitos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-rodando-a-aplicação-web">Frontend</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-licença">Lincença</a>
+</p>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<h3 align="center"> 
+🚧  Finalizado  🚧
+</h3>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### 📎 Features 
 
-### `npm run build`
+- [x] Filme Destaque
+- [x] Filmes Originais Netflix
+- [x] Filmes divididos em categorias: romance, ação, etc
+- [x] Setas de rolagem da lista
+- [ ] Preview do título selecionado
+- [x] Recomendações de filmes/séries
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### 💻 Projeto
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Clone do serviço de streaming - Netflix, com o uso da API fornecida pelo The Movie Database. 
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### ✅ Demonstração
+<img src="https://github.com/gustavo-nt/netflix-clone/blob/master/public/github/featured_movie.png" />
+<img src="https://github.com/gustavo-nt/netflix-clone/blob/master/public/github/preview_movie.png" />
+<img src="https://github.com/gustavo-nt/netflix-clone/blob/master/public/github/movie_rows.png" />
 
-## Learn More
+### ⚙ Pré-requisitos
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/) 
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
+
+### 📗 Rodando a Aplicação (web)
+
+```bash
+# Clone este repositório
+$ git clone https://github.com/gustavo-nt/netflix-clone
+
+# Instale as dependências
+$ npm
+
+# Execute a aplicação
+$ npm start
+```
+
+### 🚀 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- ReactJS
+- Javascript
+- Node.js
+
+### 📕 Bibliotecas
+
+Esse projeto foi utilizou das seguintes lib e/ou pré-processadores:
+
+- react-dom
+- react-icons
+- tmdb
+- sass
+- babel-plugin-inline-react-svg
+
+### ⚖ Direitos
+
+Todos direitos são reservados a Netflix e ao The Movie Database.
+
+### 📝 Licença
+
+Esse projeto está sob a licença MIT.
+
+<hr/>
+
+Feito por Eliezer.Passos
