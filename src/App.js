@@ -80,6 +80,13 @@ function App(){
             Dados pegos do site Themoviedb.org
           </footer>
 
+          {movieList.length <=0 &&
+
+          <div className='loading'>
+            <img src='https://i.gifer.com/origin/ca/cab888fee28ca4db0b9c04c2c6cd98ac_w200.webp' alt='carregando'/>
+          </div>
+          }
+
     </div>
   );
 }

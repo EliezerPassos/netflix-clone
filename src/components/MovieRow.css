@@ -11,9 +11,6 @@
     padding-left: 30px;
 }
 
-.movieRow--list{
-    width: 99999999px;
-}
 .movieRow--item{
     display:inline-block;
     width: 150px;
@@ -30,20 +27,35 @@
     transform: scale(1);
 }
 
-.movieRow--left,.movieRow--rigth{
 
+.movieRow--left,.movieRow--right{
 position: absolute;
 width: 40px;
 height: 225px;
-background-color: red;
-z-index: 99px;
+background-color: rgba(0,0,0,0.6);
+z-index: 99;
+display: flex;
+align-items: center;
+justify-content: center;
+overflow: hidden;
+cursor: pointer;
+opacity: 0;
+transition: all ease 0.5s;
 }
 
 .movieRow--left{
     left: 0px;
 }
 .movieRow--right{
-    left: 0px;
+    right: 0px;
+}
+
+.movieRow:hover .movieRow--left,.movieRow:hover .movieRow--right{
+    opacity: 0.8;
+}
+
+.movieRow--list{
+    transition: all ease 1s;
 }
 
 
