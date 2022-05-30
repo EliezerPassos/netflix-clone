@@ -1,5 +1,5 @@
 <h4 align="center">
-  <img src="https://github.com/gustavo-nt/netflix-clone/blob/master/public/logo.png" alt="logo" height="75"/>
+  <img src="" alt="logo" height="75"/>
 </h4>
 
 <h1 align="center">
@@ -35,9 +35,9 @@
 Clone do serviço de streaming - Netflix, com o uso da API fornecida pelo The Movie Database. 
 
 ### ✅ Demonstração
-<img src="https://github.com/gustavo-nt/netflix-clone/blob/master/public/github/featured_movie.png" />
-<img src="https://github.com/gustavo-nt/netflix-clone/blob/master/public/github/preview_movie.png" />
-<img src="https://github.com/gustavo-nt/netflix-clone/blob/master/public/github/movie_rows.png" />
+<img src="" />
+<img src="" />
+<img src="" />
 
 ### ⚙ Pré-requisitos
 
