@@ -5,7 +5,7 @@
 <h1 align="center">
     🚀 React Netflix Clone
 </h1>
-<a aling="center" font-size="30px"href="http://netflixcloneeliezerpassos.infinityfreeapp.com/?i=1">Demostração aqui</a>
+<a align="center" href="http://netflixcloneeliezerpassos.infinityfreeapp.com/?i=1">Demostração aqui</a>
 
 <p align="center">Clone da Netflix React v1.0</p>
 
