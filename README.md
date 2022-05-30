@@ -6,7 +6,7 @@
     🚀 React Netflix Clone
 </h1>
 
-<p align="center">Aplicação  Clone Netflix</p>
+<p align="center">Clone da Netflix React v1.0</p>
 
 
 <p align="center">
